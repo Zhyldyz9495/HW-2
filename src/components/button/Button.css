@@ -1,0 +1,26 @@
+Button {
+    margin: 8px;
+}
+.stars {
+    background-color: orange;
+    color: white;
+    border-radius: 30px;
+    width: 100px;
+    height: 30px;
+}
+.delete {
+    background-color: red;
+    color: white;
+    border-radius: 3px;
+    width: 100px;
+    height: 30px;
+
+}
+.edit {
+    background-color: blue;
+    color: white;
+    border-radius: 3px;
+    width: 90px;
+    height: 30px;
+
+}
